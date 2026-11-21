@@ -32,3 +32,6 @@ git status
 git add .
 git statusgit commit -m "Commit Messege"
 git push
+
+create a new branch 
+git checkout -b "branchName"
