@@ -1,0 +1,99 @@
+MEAN STACK
+   >> M: MongoDB (Database)
+   >> E: ExpressJs (Backend)
+   >> A: Angular (Frontend)
+   >> N: NodeJs (Backend)
+
+Three Pillars
+   >> HTML (Hyper text markup language)
+   >> CSS (cascading style sheet)
+   >> JS (Javascript)
+
+Other stacks:
+   >> MEAN, MERN, Java Full Stack
+
+Web Dev
+   >> Building/Developer team
+   >> Testing team (Manual Testers/Automated Testers)
+   >> Hosting Team (DevOps Team)
+   >> Maintenance Team/support Team
+
+SDLC (Software Development Life Cycle):
+   >> Waterfall Model
+   >> Agile Model
+   >> Spiral Model
+   >> Iterative Model
+   >> Incremental Model 
+   >> V Shaped Model
+   >> RAD (Rapid Application Development) Model
+
+URL (Uniform Resource Locator)
+   https://www.instagram.com/
+   https://education.Kalluacademy.edu/Fullstack
+
+   https: Protocol
+   kalluacademy: Server/Domain Name
+   education: Sub-Domain
+   .edu: TLD (Top Level Domain)
+   Fullstack: Path/Location
+
+
+Protocol: 
+   >> Set of rules/instructions
+        http  : Hyper Text Transfer Protocol
+        https : Hyper Text Trasfer Protocol Secure
+        tcp   : Transmission Control Protocol
+        udp   : User Datagram Protocol
+        smtp  : Simple Main Transfer Protocol
+        ftp   : File Transfer Protocol
+        ip    : Internet Protocol (ipV4 & ipv6)
+
+              >> Client Web page ----------(Username & Password)-------------------> Instagram Server
+              >> SSL (Secure Socket layer) Certification
+
+
+Server/Domain Name: 
+    >> Unique Identifier
+        >> Eg: Google, Amazon
+
+Sub-Domain Name:
+    >> gMeet
+    >> gMaps
+    >> Gmail
+    >> gphotos
+    >> gFiles
+    >> gCalender
+    >> gPay
+
+    >> Amazon Shopping
+    >> AWS
+
+
+TLD (Top Level Domain):
+    Amazon.in (India)
+    Amazon.com (Commercial)
+    Amazon.edu (Education)
+    Amazon.org (organisation)
+    Amazon.uk (United Kingdom)
+
+
+- Bisleri
+Bysleri
+Bilseri
+Biisleri
+Bislari
+
+
+Nike
+Nyke
+
+Offline Editors
+   >> Notepad
+   >> Notepad++
+   >> Sublime
+   >> Open Brackets
+   >> VS code
+
+Online Editors
+   >> CodeSpace
+   >> CodeSandbox
